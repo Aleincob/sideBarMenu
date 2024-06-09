@@ -1,1 +1,2 @@
-console.log("Mundop!!");
+const menuToggle = document.querySelector(".menuToggle");
+const navigation = document.querySelector("navigation");
